@@ -40,7 +40,8 @@ https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="77" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="21" group-title="THAI Digital TV" tvg-name="Top News",Top News
+https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",Bein Sport EPL1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",Bein Sport EPL2
