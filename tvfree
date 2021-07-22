@@ -14,6 +14,14 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",JKN18
 https://cdnlive.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 group-title="DTV" ,MVTV Voice TV
+https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="DTV" ,News 1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="DTV"  tvg-id="77" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77"  tvg-name="Top News",Top News
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 tvg-id="13" group-title="DTV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png" tvg-name="Bluesky Channel",ฟ้าวันใหม่
+http://202.142.220.226:1935/bluesky/Livebluesky/chunklist_w2111545574.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-nation.png",NATION22
 https://cdnlive.goprimetime.info/feed/chnation/playlist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",WORKPOINT
@@ -37,11 +45,14 @@ https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",AMARINT HD
 https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",7 HD
-https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="77" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="21" group-title="THAI Digital TV" tvg-name="Top News",Top News
-https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1  group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",Amazing Show
+http://203.154.243.32:8088/live/amazing/index.m3u8
+
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",Bein Sport EPL1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",Bein Sport EPL2
@@ -104,20 +115,23 @@ https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
 
+
+
+
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",SAMRUJLOK
 http://27.254.130.62/feed/LC8/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",National Geographic
-https://mediasv.online/tvchannel_x1/natgeo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIxIDk6MzY6MzggQU0maGFzaF92YWx1ZT0zTEM1cFJuTExSa2M4Y0ZKY0I2RVdBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzgyMDEw
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",National Geographic EN
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png",National Geographic  Abu Dhabi
 http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",Nat Geo Wild
-https://mediasv.online/live7f/hd-natgeowild/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIxIDk6Mjk6MTkgQU0maGFzaF92YWx1ZT1iRHpyYTVld3Z5UlFZc200NEVSVWZBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzMxMTcw
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",Nat Geo Wild EN
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/320px-History_HD_Logo.svg.png",History
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery Channel
-https://mediasv.online/tvchannel_x1/hd-discovery/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIxIDk6MzI6MTQgQU0maGFzaF92YWx1ZT12STZ0TzJWTjNjSXhtd3p4SkU2UnZRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI1JmlkPWNoXzM2OTgy
+https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIxIDExOjQwOjU1IEFNJmhhc2hfdmFsdWU9b2VxWTM5WjdhRzN4N1JxK1pSNlV5dz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNSZpZD1jaF8zNjIyNw==
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png",Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png",Animal Planet
@@ -140,6 +154,8 @@ https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/3000.m3u8
 https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://image.roku.com/developer_channels/prod/0b47af68c3826c1df7ae28d948f30d2d56ebef6404dd71430b20b872cd926266.png",Waypoint
 https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png",Thrill
@@ -209,6 +225,7 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png",TVB HING HE
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://lh3.googleusercontent.com/proxy/cuLrXl2HS38nYlmDj1HbsFj7_XgZS_9sovob92sOEJwXRl26k8XQfKmm2KrCz7mXLT5bu-mMXCTIiKURGnfapvhrJhc-ZpxhIRIIbQSVsYdusowZ6ODZnLwuiv262qp6",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Boomerang_tv_logo_%282004-2015%29.svg/1200px-Boomerang_tv_logo_%282004-2015%29.svg.png",Boomerang
@@ -229,6 +246,8 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w149166079.m3u8
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://www.nettvpro.live/uploads/allimg/21/1-2106142046360-L.jpg",Anibox TV
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
+
+
 
 #EXTINF:-1 group-title="VARIETY" tvg-logo="http://www.nettvpro.live/uploads/allimg/21/1-2104152209210-L.jpg",New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/ff6b354d-a3f4-469d-8b24-8002f5f970e4/1.m3u8
