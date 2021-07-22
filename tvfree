@@ -16,7 +16,7 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
 https://cdnlive.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1 group-title="DTV" ,MVTV Voice TV
 https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="DTV" ,News 1
+#EXTINF:-1 group-title="DTV" tvg-logo="http://thaiip.tv/tvlogo2/news1.png",News 1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="DTV"  tvg-id="77" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77"  tvg-name="Top News",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
