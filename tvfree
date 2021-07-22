@@ -21,7 +21,7 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="DTV"  tvg-id="77" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77"  tvg-name="Top News",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="13" group-title="DTV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png" tvg-name="Bluesky Channel",ฟ้าวันใหม่
-http://202.142.220.226:1935/bluesky/Livebluesky/chunklist_w2111545574.m3u8
+https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w185914801.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-nation.png",NATION22
 https://cdnlive.goprimetime.info/feed/chnation/playlist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",WORKPOINT
@@ -50,8 +50,6 @@ https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1  group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",Amazing Show
 http://203.154.243.32:8088/live/amazing/index.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",Bein Sport EPL1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
