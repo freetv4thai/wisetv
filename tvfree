@@ -111,11 +111,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-skysports-news.png",Sky Sport News IT
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",SAMRUJLOK
 http://27.254.130.62/feed/LC8/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",National Geographic EN
@@ -152,9 +147,6 @@ https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/3000.m3u8
 https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://image.roku.com/developer_channels/prod/0b47af68c3826c1df7ae28d948f30d2d56ebef6404dd71430b20b872cd926266.png",Waypoint
 https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
-
-
-
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
