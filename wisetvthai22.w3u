@@ -10,17 +10,16 @@
 "groups": [
 
 
-
 {
 "name": "ทีวีไทย",
 "image": "https://lh3.googleusercontent.com/pw/ACtC-3fo9iqn3CVho9fRFSkHHsw1Oxrd2Dh_fud0sc1d2_9r7muUnJgVsWxU4wXLfd0xs9gaae4NgmJpEoQse3j4jLX4kp8lki_viORevH6Z2Iab56nnYhJEIXbET5GNJZgrsG3xJRaghoiMQZsNL_X4vkD0uQ=w300-h180-no?authuser=0",
-"url": "https://bit.ly/01thaitv",
+"url": "https://raw.githubusercontent.com/freetv4thai/wisetv/main/01ThaiTV.txt",
 "import": false
 },
 {
 "name": "กีฬาไทย",
 "image": "https://lh3.googleusercontent.com/pw/ACtC-3dZkoruMUq7lsu4WXtLY-g17PHK9uxVLOicfRn-CayLTn68v2VzRSrd65fWvNeFOg9adnvyDI0yU8CmOfRRgWgalcrrPZ2zs23VfqCYa14HQQPUyvKUSRidbuM90hR6yXtWYX9m5CiquwByizKEjSgoRg=w300-h180-no?authuser=0",
-"url": "https://docs.google.com/uc?export=download&id=1JEQx_s41po9tkYWHXO1Cc2hVU1QfhC-X",
+"url": "",
 "import": false
 {
 "name": "สารคดี",
@@ -29,24 +28,6 @@
 "import": false
 },
 
-{
-"name": "ช่องเด็ก",
-"image": "https://lh3.googleusercontent.com/pw/ACtC-3d2en09oW5pQA7MaWbTV-GIuNnTOW766jQI_dakNt8gc1y3Cxt-TWkgEFjO4WaVnWYeoP4amwmdUZQpJc0v9WfObh7RUcsTePkCrho_nERUzqQKvUkZengRcG1zT-BNtD7mmVGi0SCCmCnO6yA0cIBCnQ=w300-h180-no?authuser=0",
-"url": "https://bit.ly/07kids",
-"import": false
-},
-{
-"name": "เรียนออนไลน์",
-"image": "https://lh3.googleusercontent.com/pw/ACtC-3fsrQSnf08SIBHjdi68gVIBxLNERDlSt4sW_jMItw993VR-iFW7hjNwO0v1U4l6tp9jXUK_2PGOEND1Ld96KxVRVBcMkt1SNvqWRgPSBGEpjSof6ws_iFvG-ZDK-HC3kFzqmNRHDj7MNASwAYCja9azrQ=w300-h180-no?authuser=0",
-"url": "https://bit.ly/educate",
-"import": false
-},
-{
-"name": "รอบโลก WORLD IP TV",
-"image": "https://avatars.githubusercontent.com/u/55937028?s=200&v=4",
-"url": "https://iptv-org.github.io/iptv/index.country.m3u",
-"import": false
-},
 
 
 
