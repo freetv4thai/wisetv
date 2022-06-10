@@ -1,0 +1,585 @@
+{
+"name": "🇹🇭ทีวีไทย",
+"author": "Tvthai2022 ไม่มีรายเดือน ",
+"image": "",
+"info": "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+
+
+
+"stations": [
+
+
+{
+"name": "💰21-05-2022",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "xxcc",
+"info": "ipTV ไม่มีรายเดือน"
+},
+
+{
+ "name": "ททบ.5",
+"image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+"url": "http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1139005196.m3u8",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "ททบ.5",  
+"image": "https://www.doofree88.com/storage/live/channel-5-hd.png",
+"url": "https://tv.trueid.net/live/ch5",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "3HD",
+"image":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
+"url": "https://www.adintrend.tv/hd/m/ch3",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "3HD",
+"image": "https://we-play.live/uploads/posters/ch3-hd-poster1602704948.jpeg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Channel 8 (Thailand)",
+"image": "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",
+"url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+"info": "tvThailand21",
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD",
+"image": "https://www.doofree88.com/storage/live/channel-7-hd.png",
+"url":"https://tv.mcot.net/mcothd" ,
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD",
+"image": "https://www.doofree88.com/storage/live/channel-7-hd.png",
+"url": "https://www.ch7.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Top News",
+"image": "https://images.topnews.co.th/2022/03/cropped-Logo-TOP-NEWS-100x100-1.jpg",              
+"url": "https://live.topnews.co.th/hls/topnews.m3u8",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEWS 1",
+"image": "https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",              
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"referer": "https://news1live.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "ฟ้าวันใหม่ Bluesky TV",
+"image":"http://www.onlinethailand.net/tv_online/images/Fahwonmai.jpg",
+"url":"https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w185914801.m3u8" ,
+"info": "tvThailand21",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Film HD",
+"image": "https://we-play.live/uploads/posters/-poster1602704752.jpeg",
+"url": "https://we-play.live/watching/tv/true-film-hd",
+"referer": "https://we-play.live/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Mcot HD",
+"image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27141",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD",
+"image": "https://we-play.live/uploads/posters/mcot-hd-poster1602705016.jpeg",
+"url": "https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29",
+"image": "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+"url": "https://www.adintrend.tv/hd/m/ch38",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29",
+"image": "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w942587042.m3u8",
+"referer": "https://mono29.com/livetv",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Explore Wild",
+"image": "https://overseer.blackboxsys.net/images/png/sd-expwild.png",
+"url": "https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+"referer":"https://www.dooball66.com/",
+"info": "TVthai21 ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "สำรวจโลก🗺️",  
+"image": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",  
+"url": "https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TVthai21 ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Chanel",
+"image": "https://overseer.blackboxsys.net/images/png/sd-discovery.png",
+"url": "https://embed.dooball66.com/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+"referer": "https://www.dooball66.com/",
+"info": "TVthai21 ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Animal Planet",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url" : "https://www.doomovie-hd.com/?r=tv_view&id=55",
+"info": "TVthai21 ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC earth",  
+"image": "https://scitechinstitute.org/wp-content/uploads/2020/04/bbc-earth.jpg",  
+"url": "https://embed.dooball66.com/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "TVthai21 ไม่มีรายเดือน ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tsport",
+"image": "https://www.img09.xyz/assets/img/ch_logo/TSportsChannel.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=189",
+"referer": "https:dooball66.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4u",
+"image": "https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",
+"url":"https://true4u.com/live/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True4u",
+"image": "https://we-play.live/uploads/posters/true4u-poster1602705363.jpeg",
+"url": "https://www.livedoomovie.com:4431/02_TRUE4U_480p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "JKN18",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",
+"url": "https://we-play.live/watching/tv/jkn-18",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "JKN18",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",
+"url": "https://www.adintrend.tv/hd/ch30?t=live",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27147",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image": "https://we-play.live/uploads/posters/ch8-poster.jpg",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD",
+"image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
+"url": "https://freelive2.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD",
+"image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
+"url": "https://we-play.live/watching/tv/one-hd",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT",  
+"image": "https://www.doofree88.com/storage/live/nbt.png",  
+"url": "https://www.inwiptv.com/player_demo.php?channel=27189",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT",  
+"image": "https://www.doofree88.com/storage/live/nbt.png",  
+"url": "https://www.adintrend.tv/hd/ch11?t=live",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TPBS",
+"image": "https://www.doofree88.com/storage/live/thai-pbs.png",  
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPBS",
+"image": "https://www.doofree88.com/storage/live/thai-pbs.png",  
+"url": "https://www.inwiptv.com/player_demo.php?channel=27188",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN",
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-tnn24.png",
+"url": "https://www.tnnthailand.com/live",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN",
+"image": "https://www.img08.xyz/assets/img/ch_logo/sd-tnn24.png",  
+"url": "https://www.inwiptv.com/player_demo.php?channel=27179",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "ALTV by Thaipbs",  
+"image": "https://i.ytimg.com/vi/ihjQ7flwzac/maxresdefault.jpg",  
+"url": "https://www.altv.tv/live",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "โทรทัศน์รัฐสภา",
+"image": "https://i.imgur.com/Jrqo8JP.png",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://we-play.live/uploads/posters/nationtv-poster1602705258.jpeg",
+"url": "https://www.adintrend.tv/hd/m/ch37",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25",
+"image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27153",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25",
+"image": "https://we-play.live/uploads/posters/gmm25-poster1602705192.jpeg",
+"url": "https://www.we-play.tv/watching/tv/gmm25",
+"referer": "https://www.we-play.tv/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thairath HD",
+"image": "https://we-play.live/uploads/posters/thairath-tv-poster1602705329.jpeg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27138",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Thairath HD",
+"image": "https://we-play.live/uploads/posters/thairath-tv-poster1602705329.jpeg",
+"url": "https://we-play.live/watching/tv/thairath-tv",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Amarin TV",
+"image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27135",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV",
+"image": "https://we-play.live/uploads/posters/amarin-tv-poster1602705120.jpeg",
+"url": "https://www.adintrend.tv/hd/m/ch26",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PPTV HD",
+"image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27129",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://we-play.live/uploads/posters/pptv-hd-poster1602705047.jpeg",
+"url": "https://we-play.live/watching/tv/pptv-hd",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cable Channel 37",
+"image": "https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",
+"url": "http://www.cablechannel37.com/17128842/cable-channel-37-live",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amazing Show",
+"image":"https://static.wixstatic.com/media/270dd7_6d1d5c9740b44647807a0a60a2d5900ff002.jpg/v1/fill/w_980,h_650,al_c,q_85,usm_0.33_1.00_0.00,enc_auto/270dd7_6d1d5c9740b44647807a0a60a2d5900ff002.jpg",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"url": "http://203.154.243.32:8088/live/amazing/index.m3u8",
+"info": "TVthai21 ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "แสงจันทร์",
+"image": "https://img.inwiptv.net/postor/20210504230700%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=60254",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "ถิ่นใต้",
+"image": "https://img.inwiptv.net/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=61235",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Voice TV 24 ชม.",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",             
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+"referer": "https://voicetv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "MVTV Voice TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",
+"url": "https://www.mvtv.co.th/channel/v2h9",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Police TV",
+"image": "https://www.policetv.tv/wp-content/uploads/2019/10/cropped-LOGO-POLICE-2019_512.png",
+"url": "https://www.policetv.tv/",
+"referer": "https://www.policetv.tv/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "MVTV Series",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png",
+"url": "https://www.mvtv.co.th/channel/mvtv-series",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "V2H8",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/V2H8-LOGO.png",
+"url": "https://www.mvtv.co.th/channel/v2h8",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "MVTV FIVE",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
+"url": "https://www.mvtv.co.th/channel/mvtv_home",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "TVB Thai",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",
+"url": "https://www.mvtv.co.th/channel/tvb-thai",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "V2H2",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/06/V2H2-LOGO-PNG.png",
+"url": "https://www.mvtv.co.th/channel/v2h2",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "สยาม",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg",
+"url": "https://www.mvtv.co.th/channel/siamchannel",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "ลิโด้",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg",
+"url": "https://www.mvtv.co.th/channel/lidochannell",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "สกาล่า",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg",
+"url": "https://www.mvtv.co.th/channel/sakalachannel",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "ราม่า",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg",
+"url": "https://www.mvtv.co.th/channel/ramachannel",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thai Variety",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/09/thai-variety.jpg",
+"url": "https://www.mvtv.co.th/channel/thaivariety",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+playInNatPlayer": "true"
+},
+{
+"name": "บันเทิงเกิน100",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",
+"url": "https://www.mvtv.co.th/channel/banteng100",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "HAPPY TV 69",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png",
+"url": "https://www.mvtv.co.th/channel/happy-tv",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ไทบ้าน ทีวี",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png",
+"url": "https://www.mvtv.co.th/channel/thaiban",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "69 TV",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png",
+"url": "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TVD2",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/TVD2.png",
+"url": "https://www.mvtv.co.th/channel/55ch",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "อีสาน TV",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/05-esan-tv.png",
+"url": "https://www.mvtv.co.th/channel/esan-tv",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "V2H9",
+"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/v2h9.png",
+"url": "https://www.mvtv.co.th/channel/v2h9",
+"referer": "https://www.mvtv.co.th/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+]
+}
