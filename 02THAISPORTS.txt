@@ -2,7 +2,7 @@
 "name": "⚽  Thai ASIA Sports",
 "author": "@@IP tv ไม่มีรายเดือน",
 "image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
-"url": "https://docs.google.com/uc?export=download&id=1NEMQqNezp-o6-5IDB3fjqi-2QJQI_YcF",
+"url": "",
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
 
