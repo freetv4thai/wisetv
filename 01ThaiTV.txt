@@ -102,8 +102,7 @@
 {
 "name": "MONO29",
 "image": "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
-"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w942587042.m3u8",
-"referer": "https://mono29.com/livetv",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=63",
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
@@ -118,8 +117,8 @@
 {
 "name": "Animal Planet",
 "image":"https://sv1.picz.in.th/images/2021/07/11/sJZX2k.png",
-"url" : "https://embed.dooball66.com/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
+"url" : "https://www.siammovie-hd.com/?r=tv_view&id=55",
+"referer": "https://www.siammovie-hd.com/",
 "info": "wisetvthai22 ",
 "playInNatPlayer": "true"
 },
@@ -127,7 +126,7 @@
 {
 "name": "Explore Wild",
 "image": "https://overseer.blackboxsys.net/images/png/sd-expwild.png",
-"url": "https://embed.dooball66.com/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
 "referer" : "https://dooball66.com/",
 "info": "TVthai22 ไม่มีรายเดือน",
 "playInNatPlayer": "true"
@@ -250,14 +249,6 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/368px-Ch_8_2016.svg.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27147",
 "referer": "https://www.inwiptv.com/",
-"info": "ipTV ไม่มีรายเดือน",
-"playInNatPlayer": "true"
-},
-{
-"name": "CH8",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/368px-Ch_8_2016.svg.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
