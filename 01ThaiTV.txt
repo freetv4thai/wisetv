@@ -250,7 +250,6 @@
 "playInNatPlayer": "true"
 },
 
-
 {
 "name": "NBT",  
 "image": "https://www.doofree88.com/storage/live/nbt.png",  
@@ -266,7 +265,22 @@
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
 {
 "name": "TPBS",
 "image": "https://www.doofree88.com/storage/live/thai-pbs.png",  
@@ -320,7 +334,6 @@
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
-
 
 {
 "name": "Thairath HD",
