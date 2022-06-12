@@ -4,13 +4,10 @@
 "image": "",
 "info": "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
-
-
 "stations": [
 
-
 {
-"name": "💰02-06-2022",  
+"name": "💰12-06-2022",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "xxcc",
 "info": "ipTV ไม่มีรายเดือน"
@@ -232,7 +229,22 @@
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"referer": "https://www.inwiptv.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
 {
 "name": "CH8",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/368px-Ch_8_2016.svg.png",
@@ -265,22 +277,7 @@
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
-{
-"name": "Workpoint",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
-"referer": "https://www.inwiptv.com/",
-"info": "ipTV ไม่มีรายเดือน",
-"playInNatPlayer": "true"
-},
-{
-"name": "Workpoint",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "ipTV ไม่มีรายเดือน",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "TPBS",
 "image": "https://www.doofree88.com/storage/live/thai-pbs.png",  
@@ -555,11 +552,6 @@ playInNatPlayer": "true"
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
-
-
-
-
-
 
 ]
 }
