@@ -113,12 +113,17 @@
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "Animal Planet",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJZX2k.png",
+"url" : "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
+"info": "wisetvthai22 ",
+"playInNatPlayer": "true"
+},
 {
 "name": "Animal Planet",
 "image":"https://sv1.picz.in.th/images/2021/07/11/sJZX2k.png",
 "url" : "https://www.siammovie-hd.com/?r=tv_view&id=55",
-"referer": "https://www.siammovie-hd.com/",
 "info": "wisetvthai22 ",
 "playInNatPlayer": "true"
 },
