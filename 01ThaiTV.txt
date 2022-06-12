@@ -231,7 +231,7 @@
 },
 {
 "name": "Workpoint",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"image": "http://thaiip.tv/tvlogo2/23.png",
 "url": "https://www.inwiptv.com/player_demo.php?channel=27159",
 "referer": "https://www.inwiptv.com/",
 "info": "ipTV ไม่มีรายเดือน",
@@ -239,7 +239,7 @@
 },
 {
 "name": "Workpoint",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"image": "http://thaiip.tv/tvlogo2/23.png",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "info": "ipTV ไม่มีรายเดือน",
