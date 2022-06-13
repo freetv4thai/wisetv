@@ -150,8 +150,8 @@
 {
 "name": "One31 HD",
 "image": "https://upload.wikimedia.org/wikipedia/th/thumb/e/ef/Watermark-ONE.png/250px-Watermark-ONE.png",
-"url" : "https://embed.dooball66.com/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",
-"referer": "https://www.doofootball.com/",
+"url" : "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "TVthai21 ไม่มีรายเดือน",
 "playInNatPlayer": "true"
