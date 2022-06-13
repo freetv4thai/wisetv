@@ -122,9 +122,10 @@
 },
 {
 "name": "Animal Planet",
-"image":"https://sv1.picz.in.th/images/2021/07/11/sJZX2k.png",
-"url" : "https://www.siammovie-hd.com/?r=tv_view&id=55",
-"info": "wisetvthai22 ",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://embed.dooball66.com/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "TVthai21 ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
 
@@ -204,14 +205,14 @@
 },
 {
 "name": "True4u",
-"image": "https://pngimage.net/wp-content/uploads/2018/06/true4u-logo-png-3.png",
+"image": "http://thaiip.tv/tvlogo2/24.png",
 "url": "https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8",
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
 {
 "name": "True4u",
-"image": "https://pngimage.net/wp-content/uploads/2018/06/true4u-logo-png-3.png",
+"image": "http://thaiip.tv/tvlogo2/24.png",
 "url":"https://www.doofootball.com/dootv/live/true4u#main_dootv",
 "referer": "https://www.doofootball.com/",
 "info": "ipTV ไม่มีรายเดือน",
