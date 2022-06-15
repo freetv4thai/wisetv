@@ -164,9 +164,17 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "One31 HDα",
+"image": "https://upload.wikimedia.org/wikipedia/th/thumb/e/ef/Watermark-ONE.png/250px-Watermark-ONE.png",
+"url": "http://www.aiiztv.com/one31.php",
+"info": "ipTV ไม่มีรายเดือน",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "GMM25",
 "image": "https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
-"url": "http://www.aiiztv.com/one31.php",
+"url": "http://www.aiiztv.com/gmm25.php",
 "referer": "https://www.inwiptv.com/",
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
@@ -418,14 +426,7 @@
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
-{
-"name": "V2H8",
-"image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/V2H8-LOGO.png",
-"url": "https://www.mvtv.co.th/channel/v2h8",
-"referer": "https://www.mvtv.co.th/",
-"info": "ipTV ไม่มีรายเดือน",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "MVTV FIVE",
 "image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
