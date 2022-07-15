@@ -1,7 +1,7 @@
 {
 "name": "🇹🇭ทีวีไทย",
 "author": "Tvthai2022 ไม่มีรายเดือน ",
-"image": "",
+"image": " ",
 "info": "ช่องและรายการทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 
 "stations": [
@@ -77,7 +77,7 @@
 {
 "name": "ฟ้าวันใหม่ Bluesky TV",
 "image":"http://www.onlinethailand.net/tv_online/images/Fahwonmai.jpg",
-"url":"https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w185914801.m3u8" ,
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-fahwonmai&api_key=hmcb4rf66f" ,
 "info": "tvThailand21",
 "playInNatPlayer": "true"
 },
@@ -180,14 +180,7 @@
 "playInNatPlayer": "true"
 },
 
-{
-"name": "Cable Channel 37",
-"image": "https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",
-"url": "http://www.cablechannel37.com/17128842/cable-channel-37-live",
-"referer": "https://www.mvtv.co.th/",
-"info": "ipTV ไม่มีรายเดือน",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "NEWS 1",
 "image": "https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",              
