@@ -77,7 +77,8 @@
 {
 "name": "ฟ้าวันใหม่ Bluesky TV",
 "image":"http://www.onlinethailand.net/tv_online/images/Fahwonmai.jpg",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-fahwonmai&api_key=hmcb4rf66f" ,
+"url":"https://embed.dooball66.com/player.php?channel=sd-fahwonmai&api_key=hmcb4rf66f" ,
+"referer": "https://www.dooball66.com/",
 "info": "tvThailand21",
 "playInNatPlayer": "true"
 },
@@ -117,7 +118,7 @@
 "name": "Animal Planet",
 "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
 "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
+"referer": "https://www.dooball66.com/",
 "info": "TVthai21 ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
@@ -126,7 +127,7 @@
 "name": "Explore Wild",
 "image": "https://overseer.blackboxsys.net/images/png/sd-expwild.png",
 "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
-"referer" : "https://dooball66.com/",
+"referer" : "https://www.dooball66.com/",
 "info": "TVthai22 ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
