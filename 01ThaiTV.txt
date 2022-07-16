@@ -222,9 +222,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Workpoint",
+"name": "Workpoint■",
 "image": "http://thaiip.tv/tvlogo2/23.png",
-"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"url": "https://mthai.com/tv/workpointtv",
 "referer": "https://www.inwiptv.com/",
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
