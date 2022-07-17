@@ -7,7 +7,7 @@
 "stations": [
 
 {
-"name": "💰12-06-2022",  
+"name": "💰18-07-2022",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
 "url": "xxcc",
 "info": "ipTV ไม่มีรายเดือน"
