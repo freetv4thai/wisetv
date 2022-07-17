@@ -224,8 +224,7 @@
 {
 "name": "Workpoint",
 "image": "http://thaiip.tv/tvlogo2/23.png",
-"url": "https://www.siammovie-hd.com/?r=tv_view&id=15",
-"referer": "https://www.siammovie-hd.com/",
+"url": "http://www.aiiztv.com/workpoint-tv.php",
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
