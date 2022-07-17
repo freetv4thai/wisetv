@@ -126,8 +126,8 @@
 {
 "name": "Animal Planet",
 "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=55",
-"referer" : "https://www.doomovie-hd.com/",
+"url": "https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
+"referer" : "www.doofootball.com",
 "info": "TVthai22 ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
