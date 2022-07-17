@@ -124,10 +124,10 @@
 },
 
 {
-"name": "Explore Wild",
-"image": "https://overseer.blackboxsys.net/images/png/sd-expwild.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
-"referer" : "https://www.dooball66.com/",
+"name": "Animal Planet",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=55",
+"referer" : "https://www.doomovie-hd.com/",
 "info": "TVthai22 ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
