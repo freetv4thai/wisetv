@@ -222,10 +222,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Workpoint■",
+"name": "Workpoint",
 "image": "http://thaiip.tv/tvlogo2/23.png",
-"url": "https://mthai.com/tv/workpointtv",
-"referer": "https://www.inwiptv.com/",
+"url": "https://www.siammovie-hd.com/?r=tv_view&id=15",
+"referer": "https://www.siammovie-hd.com/",
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
 },
