@@ -360,7 +360,7 @@
 {
 "name": "PPTV HD",
 "image": "https://mthai.com/app/uploads/2021/01/pptv36hd.png",
-"url": "https://embed.dooball66.com/player.php?channel=hd-pptv&api_key=hmcb4rf66f",
+"url": "https://www.doofootball.com/dootv/live/pptv#main_dootv",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "ipTV ไม่มีรายเดือน",
 "playInNatPlayer": "true"
